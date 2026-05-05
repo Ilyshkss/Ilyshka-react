@@ -1,0 +1,40 @@
+.smallCard-container {
+    margin: 20px;
+    width: 210px;
+}
+
+.smallCard-main {
+    display: flex;
+    justify-content: space-between;
+    /* margin: 20px; */
+}
+
+.smallCard-main-content {
+    margin: 5px;
+}
+.smallCard-main-content_date {
+    color: rgb(143, 135, 135);
+    font-size: 10px;
+}
+
+.smallCard-main-content_title {
+    font-size: 13px;
+    font-weight: 800;
+    margin: 10px 0;
+}
+
+.smallCard-main_img {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+}
+
+.smallCard-icon {
+    display: flex;
+    justify-content: space-between;
+}
+
+.smallCard-icon-left_like, .smallCard-icon-left_dislike, .smallCard-icon-right_save, .smallCard-icon-right_dots {
+    margin: 5px;
+    width: 12px;
+}

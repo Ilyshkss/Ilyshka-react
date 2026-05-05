@@ -1,0 +1,8 @@
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: black;
+    padding: 20px;
+    width: max-content;
+    background-color: lightgrey;
+}

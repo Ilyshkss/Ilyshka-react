@@ -1,0 +1,42 @@
+.bigCard-container {
+    margin: 20px;
+    width: 700px;
+}
+
+.bigCard-main {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.bigCard-main-content {
+    margin: 10px;
+}
+.bigCard-main-content_date {
+    color: rgb(143, 135, 135)
+}
+
+.bigCard-main-content_title {
+    font-size: 25px;
+    font-weight: 800;
+    margin: 10px 0;
+}
+
+.bigCard-main-content_text {
+    color: rgb(143, 135, 135);
+}
+
+.bigCard-main_img {
+    width: 200px;
+    height: 200px;
+}
+
+.bigCard-icon {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.bigCard-icon-left_like, .bigCard-icon-left_dislike, .bigCard-icon-right_save, .bigCard-icon-right_dots {
+    margin: 5px;
+}

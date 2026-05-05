@@ -1,0 +1,35 @@
+.mediumCard-container {
+    width: 310px;
+    margin: 20px;
+}
+
+
+.mediumCard-main-content {
+    margin: 10px 0;
+}
+
+.mediumCard-main_img {
+    width: 310px;
+    height: 110px;
+    object-fit: cover;
+}
+
+.mediumCard-main-content_date {
+    color: rgb(143, 135, 135);
+    font-size: 12px;
+}
+
+.mediumCard-main-content_title {
+    font-size: 18px;
+    font-weight: 800;
+    margin: 10px 0;
+}
+
+.mediumCard-icon {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mediumCard-icon-left_like, .mediumCard-icon-left_dislike, .mediumCard-icon-right_save, .mediumCard-icon-right_dots {
+    margin: 5px;
+}
