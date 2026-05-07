@@ -1,0 +1,27 @@
+.header-container{
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 0 0;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+
+.menu_img{
+    width: 20px;
+    padding: 15px 20px;
+    border-right: 0.5px solid rgba(255, 255, 255, 0.664);
+}
+
+.right-group{
+    display: flex;
+    width: fit-content;
+}
+
+.right-group_search-img{
+    width: 20px;
+    padding: 15px 20px;
+    border-right: 0.5px solid rgba(255, 255, 255, 0.664);
+    border-left: 0.5px solid rgba(255, 255, 255, 0.664);
+}
